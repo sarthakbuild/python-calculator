@@ -1,22 +1,22 @@
-# 🧮 Python Calculator
+# **Python Calculator**
 
 A simple command-line calculator built using Python.
 
-## ✨ Features
+## Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
 - Division by zero handling
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python 3
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 python calculator.py
 ```
 
-## 👨‍💻 Author
+## Author
 Sarthak Dhande
